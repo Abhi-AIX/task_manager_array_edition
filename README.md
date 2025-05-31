@@ -41,24 +41,6 @@ This is a beginner-friendly console application written in C# designed to teach 
 - Manual object duplication
 - Memory and reference behavior notes
 
-
----
-
-## File Structure
-
-TaskManagerProject/
-│
-├── Program.cs // Main console logic
-├── README.md // This documentation file
-├── Array_Methods_Deep_Concepts.md // Notes on C# methods and examples
-├── images/
-│ ├── array-methods-infographic.png
-│ └── concept-flowchart.png
-
-yaml
-Copy
-Edit
-
 ---
 
 ## How to Run
