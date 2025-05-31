@@ -1,0 +1,14 @@
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\bin\Debug\net8.0\TaskManager-ArrayEdition.exe
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\bin\Debug\net8.0\TaskManager-ArrayEdition.deps.json
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\bin\Debug\net8.0\TaskManager-ArrayEdition.runtimeconfig.json
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\bin\Debug\net8.0\TaskManager-ArrayEdition.dll
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\bin\Debug\net8.0\TaskManager-ArrayEdition.pdb
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.AssemblyInfoInputs.cache
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.AssemblyInfo.cs
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.csproj.CoreCompileInputs.cache
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.dll
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\refint\TaskManager-ArrayEdition.dll
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.pdb
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\TaskManager-ArrayEdition.genruntimeconfig.cache
+D:\source\TaskManager-ArrayEditionSolution\TaskManager-ArrayEdition\obj\Debug\net8.0\ref\TaskManager-ArrayEdition.dll
